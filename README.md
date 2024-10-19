@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaniMo18
+- 👋 Hi, I’m @DaniMo18 aka Daniel Morales
 - 👀 I’m interested in Learning languages and expand my knowledge in coding
 - 🌱 I’m currently learning Python, Java, Html, css, javascript
 - 💞️ I’m looking to collaborate on projects
